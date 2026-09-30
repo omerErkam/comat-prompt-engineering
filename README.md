@@ -44,9 +44,3 @@ Temperature Sensitivity: Increasing inference temperature from 0.1 to 0.7 degrad
 Shapley Value Insights: "Question Formalization" (Step 4) yielded the highest positive contribution (-0.0192 relative weight) by acting as a critical focal point before execution.
 
 Ablation Study: Removing both setup steps (Steps 1 & 2) resulted in a 4.48% higher accuracy than removing only Step 1, indicating that models perform better skipping the setup entirely rather than reasoning with a fractured or incomplete logic structure.
-
-[PLACEHOLDER: Insert a grouped Bar Chart here comparing QWEN2 vs QWEN3 accuracy across 2000 and 4000 token limits]
-
-[PLACEHOLDER: Insert a Waterfall Chart or horizontal Bar Plot here visualizing the Shapley Values for Steps 1 through 4]
-
-[PLACEHOLDER: Insert a dual-axis Line Plot showing GRPO Training Loss vs. Evaluation Reward over epochs]
