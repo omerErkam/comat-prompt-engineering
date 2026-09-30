@@ -1,0 +1,11 @@
+python-dotenv
+tqdm
+httpx==0.27.2
+pandas
+numpy
+transformers
+datasets
+huggingface_hub[hf_xet]
+torch
+trl
+sympy
